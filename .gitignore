@@ -6,3 +6,10 @@ bin/
 build/
 out/
 CMakeSettings.json
+_deps
+CMakeFiles
+*.cmake
+CMakeCache.txt
+Makefile
+/pakemon
+.DS_Store
